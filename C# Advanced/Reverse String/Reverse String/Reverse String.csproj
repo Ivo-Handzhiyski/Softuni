@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Reverse_String</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Dotok\Desktop\Github\Softuni\Softuni\C# Advanced\Simple Calculator.cs" Link="Simple Calculator.cs" />
+  </ItemGroup>
+
+</Project>
