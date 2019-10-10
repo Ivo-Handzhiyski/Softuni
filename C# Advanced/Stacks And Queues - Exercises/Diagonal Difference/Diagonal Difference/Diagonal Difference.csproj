@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Diagonal_Difference</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Dotok\Desktop\Github\Softuni\Softuni\C# Advanced\Stacks And Queues - Exercises\Maximun Sum.cs" Link="Maximun Sum.cs" />
+  </ItemGroup>
+
+</Project>
